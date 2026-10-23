@@ -1,4 +1,3 @@
-# RoverLite-Edge-AI-Based-Terrain-Classification-for-Mars-Rover-Mobility
 # RoverLite: Edge AI-Based Terrain Classification for Mars Rover Mobility
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/roverlite-mars-terrain-classifier/blob/main/RoverLite_Colab_Training_Notebook.ipynb)
