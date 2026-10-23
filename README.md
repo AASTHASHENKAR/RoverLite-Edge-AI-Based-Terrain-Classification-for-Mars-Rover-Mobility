@@ -35,17 +35,15 @@ Because the labels are segmentation masks, the notebook converts them into a cla
 To run locally: `pip install -r requirements.txt` and open the notebook in Jupyter.
 
 ## Results
-Fill in after running the notebook (values are printed in Section 8, 10 and 12).
+
 
 | Metric | Value |
 |--------|-------|
-| Test accuracy (%) | - |
-| Test macro-F1 | - |
-| Keras model size (MB) | - |
-| TFLite model size (MB) | - |
-| CPU latency per patch (ms) | - |
-
-Add screenshots of the training curves and confusion matrix in an `images/` folder and link them here.
+| Test accuracy (%) | -0.8080 (80.80%) |
+| Test macro-F1 | 0.6301 |
+| Keras model size (MB) |  9.24 MB |
+| TFLite model size (MB) | 250.70 MB |
+| Latency is measured on this Colab runtime; it is not a Raspberry Pi result. |
 
 ## Limitations
 - Patch labels are the dominant mask class, which simplifies complex scenes.
